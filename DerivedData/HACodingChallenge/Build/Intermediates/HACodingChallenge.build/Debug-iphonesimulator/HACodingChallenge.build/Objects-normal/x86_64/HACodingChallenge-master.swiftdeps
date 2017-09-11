@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "219f5fd6abbce4624d7c00bfc2c7078a"
+build_time: [558414783, 134800000]
+inputs:
+  "/Users/chrisconner/Desktop/HACodingChallenge-master 2 2/HACodingChallenge/DetailViewController.swift": [558406889, 0]
+  "/Users/chrisconner/Desktop/HACodingChallenge-master 2 2/HACodingChallenge/TableViewCell.swift": [558414783, 0]
+  "/Users/chrisconner/Desktop/HACodingChallenge-master 2 2/HACodingChallenge/ViewController.swift": [558411993, 0]
+  "/Users/chrisconner/Desktop/HACodingChallenge-master 2 2/HACodingChallenge/AppDelegate.swift": [558395738, 0]
+  "/Users/chrisconner/Desktop/HACodingChallenge-master 2 2/HACodingChallenge/ImageDownloader.swift": [558395738, 0]
+  "/Users/chrisconner/Desktop/HACodingChallenge-master 2 2/HACodingChallenge/Event.swift": [558395738, 0]

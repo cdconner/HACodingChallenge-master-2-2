@@ -1,0 +1,150 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Products/Debug-iphonesimulator/Pods_HACodingChallenge.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-HACodingChallenge-umbrella.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/Target Support Files/Pods-HACodingChallenge/Pods-HACodingChallenge-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_HACodingChallenge-Swift.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Products/Debug-iphonesimulator/Pods_HACodingChallenge.framework/Headers/Pods_HACodingChallenge-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Products/Debug-iphonesimulator/Pods_HACodingChallenge.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-HACodingChallenge.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSImage+WebCache.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/NSImage+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCacheConfig.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDImageCacheConfig.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCache.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/chrisconner/Desktop/HACodingChallenge/DerivedData/HACodingChallenge/Build/Intermediates/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
